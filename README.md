@@ -2,7 +2,7 @@
 
 This repo is just to keep track as I work through unit 1 of [Get Programming With Node.js](https://amzn.eu/d/1SdEKQ3) by Jonathan Wexler, which covers setting up a basic HTTP server in Node.js and handling routing (without the use of Express.js, which is introduced in the next unit).
 
-<img src="book_cover.jpg" width="300" />
+<a href="https://amzn.eu/d/1SdEKQ3"><img src="book_cover.jpg" width="300" /></a>
 
 ### Lesson 3
 
