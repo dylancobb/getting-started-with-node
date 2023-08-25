@@ -1,0 +1,15 @@
+{
+  "name": "1.5-second_server",
+  "version": "1.0.0",
+  "description": "A simple HTTP web server with basic routing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dylan Cobb",
+  "license": "ISC",
+  "dependencies": {
+    "http-status-codes": "^2.2.0"
+  }
+}

@@ -4,3 +4,4 @@ This repo is just to keep track as I work through unit 1 of [Get Programming Wit
 
 - Lesson 3 covered npm basics and exporting / requiring modules in Node.
 - Lesson 4 covered the setup of a basic HTTP server that simply responds to all requests with HTML (at this stage, from directly inside the same file).
+- Lesson 5 explored how to set up basic routing to serve different HTML for different url requests.
