@@ -1,7 +1,7 @@
 {
-  "name": "second_server",
+  "name": "serve_html",
   "version": "1.0.0",
-  "description": "A simple HTTP web server with basic routing",
+  "description": "A simple HTTP web server with improved routing",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
