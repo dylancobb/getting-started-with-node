@@ -14,8 +14,8 @@ This repo is just to keep track as I work through unit 1 of [Get Programming Wit
 
 ### Lesson 5
 
-- Explored how to set up basic routing to serve different HTML for different url requests.
+- I explored how to set up basic routing to serve different HTML for different url requests.
 
 ### Lesson 6
 
-- [in progress] set up a new project, where I will learn to serve HTML from files rather than via inline JavaScript.
+- I learned how to serve HTML from locally stored HTML files using the `fs` module, and extracted the implementation of routing logic into an independent JavaScript module. I also learned how to serve other files like images, CSS and JavaScript in a similar fashion.
