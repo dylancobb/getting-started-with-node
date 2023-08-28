@@ -19,3 +19,7 @@ This repo is just to keep track as I work through unit 1 of [Get Programming Wit
 ### Lesson 6
 
 - I learned how to serve HTML from locally stored HTML files using the `fs` module, and extracted the implementation of routing logic into an independent JavaScript module. I also learned how to serve other files like images, CSS and JavaScript in a similar fashion.
+
+### Lesson 7
+
+- I put everything learned so far together to build a complete web application serving static web pages via a custom system for routing user requests to serve specific content. After building custom functions to register routes in an organized and systematic way, I created views and assets to be served from their respective directories.
